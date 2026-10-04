@@ -1,5 +1,7 @@
 # Ablaufberg: Wie viele Durchgänge braucht die Zugbildung? (Streamlit-Demo)
 
+**[→ Demo live ausprobieren](https://sebastianhanisch-ablaufberg-demo.streamlit.app/)**
+
 Interaktive **Fall-Demo** zur Zugbildung am Ablaufberg im Portfolio von [Sebastian Hanisch](https://sebastianhanisch.net) (Operations Research und Machine Learning).
 **Vierter Baustein der Reihe Bahn/Schienenverkehr** nach dem [Taktfahrplan](https://github.com/sebastian-hanisch/taktfahrplan-demo), dem [Crew Pairing](https://github.com/sebastian-hanisch/crew-pairing-demo) und dem
 [Trassenkonflikt](https://github.com/sebastian-hanisch/trassenkonflikt-demo).
